@@ -104,7 +104,8 @@ El resultado de este comando debería ser similar a este:
   muestre la página que se encuentra dentro del folder del laboratorio y no la
   que viene por defecto con el servidor web. Al cargar el sitio debe lucir 
   similar a esto:
-  ![hello world page](images/hello-world-page.png)
+
+    ![hello world page](images/hello-world-page.png)
 
 ## Entrega
 
